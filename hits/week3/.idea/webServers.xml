@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d7fca908-4ebb-42d6-a18f-dd2b75e0e263" name="ecma" url="http://localhost:3306">
+        <fileTransfer port="0" mountedRoot="C:\Users\cas\Documents\bewijzenmap" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
